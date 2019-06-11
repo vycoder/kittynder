@@ -1,9 +1,16 @@
 # kittynder
+> Tinder for cats.
 
-## Project setup
-```
+Holds the result of my experiments on trying to figure out how to build a tinder-like UI using [vue2-interact](https://vue2-interact.netlify.com).
+
+## Getting started
+git clone https://github.com/josephharveyangeles/kittynder
+cd kittynder
 yarn install
-```
+yarn serve
+
+## Demo
+Demo website is over here: [kittynder.netlify.com](kittynder.netlify.com)
 
 ### Compiles and hot-reloads for development
 ```
@@ -14,16 +21,3 @@ yarn run serve
 ```
 yarn run build
 ```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
