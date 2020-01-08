@@ -10,7 +10,7 @@ yarn install
 yarn serve
 
 ## Demo
-Demo website is over here: [kittynder.netlify.com](kittynder.netlify.com)
+Demo website is over here: [kittynder.netlify.com](https://kittynder.netlify.com)
 
 ### Compiles and hot-reloads for development
 ```
