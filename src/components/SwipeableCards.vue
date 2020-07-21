@@ -138,6 +138,7 @@ export default {
   background: #eceff1;
   width: 100%;
   height: 100vh;
+  touch-action: none;
 }
 
 .header {
